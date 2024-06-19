@@ -33,7 +33,7 @@ To install and run the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    [git clone https://github.com/KonstantinosGalanis/Parallel-Mesh-Generation-Algorithm.git]
+    git clone https://github.com/KonstantinosGalanis/Parallel-Mesh-Generation-Algorithm.git
     cd Diploma Thesis
     ```
 
