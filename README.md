@@ -33,8 +33,8 @@ To install and run the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/delaunay-triangulation.git
-    cd delaunay-triangulation
+    [git clone https://github.com/yourusername/delaunay-triangulation.git](https://github.com/KonstantinosGalanis/Parallel-Mesh-Generation-Algorithm.git)
+    cd Diploma Thesis
     ```
 
 2. **Set up the environment**:
