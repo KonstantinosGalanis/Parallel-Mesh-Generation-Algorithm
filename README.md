@@ -51,3 +51,7 @@ To install and run the project, follow these steps:
 To run the sequential implementation:
 ```bash
 python sequential_delaunay.py
+
+To run the parallel implementation:
+```bash
+python parallel_delaunay.py
