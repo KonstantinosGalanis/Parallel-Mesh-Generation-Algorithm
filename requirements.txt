@@ -1,0 +1,6 @@
+pip install open3d
+pip install hilbertcurve
+pip install numba
+pip install numpy
+pip install torch
+pip install scipy
